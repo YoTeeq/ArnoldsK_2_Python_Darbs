@@ -1,3 +1,4 @@
+#ArnoldsK darbs 2_Python
 #1.	Izdrukāt visus skaitļus no 1 lidz dotajam skaitlim.
 """
 n = int(input("Izdrukāt skaitli no 1 līdz: "))
